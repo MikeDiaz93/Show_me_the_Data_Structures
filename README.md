@@ -1,6 +1,6 @@
 # Show_me_the_Data_Structures
 
-This exercises are part of the 2nd project of the Udacity Data Structures and Algorithms Nanodegree Program. 
+This exercise is part of the 2nd project of the Udacity Data Structures and Algorithms Nanodegree Program. 
 
 There are 6 exercises in total we have to submit successfully in order to pass this project. 
 
